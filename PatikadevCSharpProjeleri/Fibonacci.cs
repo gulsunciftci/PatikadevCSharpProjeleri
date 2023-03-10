@@ -10,6 +10,7 @@ namespace PatikadevCSharpProjeleri
     {
         public int _count { get; set; }
         public int[] f ;
+        public int avarage;
         public Fibonacci(int count, int n)
         {
             _count = count;
