@@ -1,8 +1,0 @@
-C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\PatikadevCSharpProjeleri\bin\Debug\PatikadevCSharpProjeleri.exe.config
-C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\PatikadevCSharpProjeleri\bin\Debug\PatikadevCSharpProjeleri.exe
-C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\PatikadevCSharpProjeleri\bin\Debug\PatikadevCSharpProjeleri.pdb
-C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\PatikadevCSharpProjeleri\obj\Debug\FibonacciTriangle.csproj.AssemblyReference.cache
-C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\PatikadevCSharpProjeleri\obj\Debug\FibonacciTriangle.csproj.SuggestedBindingRedirects.cache
-C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\PatikadevCSharpProjeleri\obj\Debug\FibonacciTriangle.csproj.CoreCompileInputs.cache
-C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\PatikadevCSharpProjeleri\obj\Debug\PatikadevCSharpProjeleri.exe
-C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\PatikadevCSharpProjeleri\obj\Debug\PatikadevCSharpProjeleri.pdb
