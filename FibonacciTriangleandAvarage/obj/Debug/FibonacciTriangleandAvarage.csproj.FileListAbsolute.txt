@@ -1,0 +1,8 @@
+C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\FibonacciTriangleandAvarage\obj\Debug\FibonacciTriangleandAvarage.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\FibonacciTriangleandAvarage\obj\Debug\FibonacciTriangleandAvarage.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\FibonacciTriangleandAvarage\obj\Debug\FibonacciTriangleandAvarage.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\FibonacciTriangleandAvarage\bin\Debug\FibonacciTriangleandAvarage.exe.config
+C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\FibonacciTriangleandAvarage\bin\Debug\FibonacciTriangleandAvarage.exe
+C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\FibonacciTriangleandAvarage\bin\Debug\FibonacciTriangleandAvarage.pdb
+C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\FibonacciTriangleandAvarage\obj\Debug\FibonacciTriangleandAvarage.exe
+C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\FibonacciTriangleandAvarage\obj\Debug\FibonacciTriangleandAvarage.pdb
