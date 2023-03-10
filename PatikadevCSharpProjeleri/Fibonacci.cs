@@ -10,7 +10,7 @@ namespace PatikadevCSharpProjeleri
     {
         public int _count { get; set; }
         public int[] f ;
-        public int avarage;
+        public double avarage;
         public Fibonacci(int count, int n)
         {
             _count = count;
@@ -28,6 +28,11 @@ namespace PatikadevCSharpProjeleri
 
                 f[i] = f[i - 1] + f[i - 2];
             }
+        }
+        public void avarageFunction()
+        {
+            avarage = f.Average();
+            Console.Write("Fibonacci dizi ortalaması:{0}    ",avarage);
         }
     }
 }

@@ -15,10 +15,11 @@ namespace FibonacciTriangle
             Console.WriteLine("Fibonacci serisinin yüksekliği giriniz:");
             int  height= Convert.ToInt32(Console.ReadLine());
             fiboTriangle(height);
+            
 
         }
         
-        static void fiboTriangle(int n)
+        public static void fiboTriangle(int n)
         {
             
             int length = n * (n + 1) / 2; //fibonacci üçgen yüksekliğinden serinin eleman sayısını bulduk
@@ -40,6 +41,9 @@ namespace FibonacciTriangle
 
                 Console.WriteLine();
             }
+
+            fibonacci.avarageFunction();
+            
         }
     }
 }
