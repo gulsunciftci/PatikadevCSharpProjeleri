@@ -1,0 +1,8 @@
+C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\TriangleDrawing\bin\Debug\TriangleDrawing.exe.config
+C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\TriangleDrawing\bin\Debug\TriangleDrawing.exe
+C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\TriangleDrawing\bin\Debug\TriangleDrawing.pdb
+C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\TriangleDrawing\obj\Debug\TriangleDrawing.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\TriangleDrawing\obj\Debug\TriangleDrawing.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\TriangleDrawing\obj\Debug\TriangleDrawing.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\TriangleDrawing\obj\Debug\TriangleDrawing.exe
+C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\TriangleDrawing\obj\Debug\TriangleDrawing.pdb
