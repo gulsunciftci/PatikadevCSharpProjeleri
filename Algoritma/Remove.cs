@@ -19,11 +19,18 @@ namespace Algoritma
 
         public void removeFunction()
         {
-            var strings = str.Split(',');
-            index = Convert.ToInt32(strings[1]);
-            newStr = strings[0];
-            newStr = newStr.Remove(index, 1);
-            Console.WriteLine(newStr);
+            try
+            {
+                var strings = str.Split(',');
+                index = Convert.ToInt32(strings[1]);
+                newStr = strings[0];
+                newStr = newStr.Remove(index, 1);
+                Console.WriteLine(newStr);
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex);
+            }
         }
         
     }
