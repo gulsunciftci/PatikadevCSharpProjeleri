@@ -1,0 +1,8 @@
+C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\SessizHarf\bin\Debug\SessizHarf.exe.config
+C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\SessizHarf\bin\Debug\SessizHarf.exe
+C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\SessizHarf\bin\Debug\SessizHarf.pdb
+C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\SessizHarf\obj\Debug\SessizHarf.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\SessizHarf\obj\Debug\SessizHarf.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\SessizHarf\obj\Debug\SessizHarf.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\SessizHarf\obj\Debug\SessizHarf.exe
+C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\SessizHarf\obj\Debug\SessizHarf.pdb
