@@ -1,0 +1,8 @@
+C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\MutlakKareAlma\obj\Debug\MutlakKareAlma.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\MutlakKareAlma\obj\Debug\MutlakKareAlma.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\MutlakKareAlma\obj\Debug\MutlakKareAlma.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\MutlakKareAlma\bin\Debug\MutlakKareAlma.exe.config
+C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\MutlakKareAlma\bin\Debug\MutlakKareAlma.exe
+C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\MutlakKareAlma\bin\Debug\MutlakKareAlma.pdb
+C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\MutlakKareAlma\obj\Debug\MutlakKareAlma.exe
+C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\MutlakKareAlma\obj\Debug\MutlakKareAlma.pdb
