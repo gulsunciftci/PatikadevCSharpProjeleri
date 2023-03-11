@@ -1,0 +1,8 @@
+C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\IntegerIkililerinToplami\bin\Debug\IntegerIkililerinToplami.exe.config
+C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\IntegerIkililerinToplami\bin\Debug\IntegerIkililerinToplami.exe
+C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\IntegerIkililerinToplami\bin\Debug\IntegerIkililerinToplami.pdb
+C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\IntegerIkililerinToplami\obj\Debug\IntegerIkililerinToplami.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\IntegerIkililerinToplami\obj\Debug\IntegerIkililerinToplami.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\IntegerIkililerinToplami\obj\Debug\IntegerIkililerinToplami.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\IntegerIkililerinToplami\obj\Debug\IntegerIkililerinToplami.exe
+C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\IntegerIkililerinToplami\obj\Debug\IntegerIkililerinToplami.pdb

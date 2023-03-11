@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KarakterTerstenYazdırma", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlanHesaplama", "AlanHesaplama\AlanHesaplama.csproj", "{1625EA33-77EC-4064-98A4-1E0D8371EB69}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegerIkililerinToplami", "IntegerIkililerinToplami\IntegerIkililerinToplami.csproj", "{B63809AF-EFDD-4D68-8647-7606E46F43F0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{1625EA33-77EC-4064-98A4-1E0D8371EB69}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1625EA33-77EC-4064-98A4-1E0D8371EB69}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1625EA33-77EC-4064-98A4-1E0D8371EB69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B63809AF-EFDD-4D68-8647-7606E46F43F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B63809AF-EFDD-4D68-8647-7606E46F43F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B63809AF-EFDD-4D68-8647-7606E46F43F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B63809AF-EFDD-4D68-8647-7606E46F43F0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

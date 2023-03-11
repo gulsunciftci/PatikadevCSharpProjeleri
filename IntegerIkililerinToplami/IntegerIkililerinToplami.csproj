@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1625EA33-77EC-4064-98A4-1E0D8371EB69}</ProjectGuid>
+    <ProjectGuid>{B63809AF-EFDD-4D68-8647-7606E46F43F0}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>AlanHesaplama</RootNamespace>
-    <AssemblyName>AlanHesaplama</AssemblyName>
+    <RootNamespace>IntegerIkililerinToplami</RootNamespace>
+    <AssemblyName>IntegerIkililerinToplami</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,9 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Daire.cs" />
-    <Compile Include="Dikdortgen.cs" />
-    <Compile Include="Kare.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
