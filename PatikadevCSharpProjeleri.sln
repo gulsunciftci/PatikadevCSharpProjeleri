@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegerIkililerinToplami", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MutlakKareAlma", "MutlakKareAlma\MutlakKareAlma.csproj", "{910AC1D0-BAD2-4A28-B27F-69AAD12BDD81}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KarakterDegistirme", "KarakterDegistirme\KarakterDegistirme.csproj", "{243E5B4F-25F3-491D-8CD6-94F115852884}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{910AC1D0-BAD2-4A28-B27F-69AAD12BDD81}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{910AC1D0-BAD2-4A28-B27F-69AAD12BDD81}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{910AC1D0-BAD2-4A28-B27F-69AAD12BDD81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{243E5B4F-25F3-491D-8CD6-94F115852884}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{243E5B4F-25F3-491D-8CD6-94F115852884}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{243E5B4F-25F3-491D-8CD6-94F115852884}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{243E5B4F-25F3-491D-8CD6-94F115852884}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
