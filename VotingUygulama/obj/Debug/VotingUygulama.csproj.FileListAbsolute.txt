@@ -1,0 +1,11 @@
+C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\VotingUygulama\bin\Debug\VotingUygulama.exe.config
+C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\VotingUygulama\bin\Debug\VotingUygulama.exe
+C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\VotingUygulama\bin\Debug\VotingUygulama.pdb
+C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\VotingUygulama\obj\Debug\VotingUygulama.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\VotingUygulama\obj\Debug\VotingUygulama.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\VotingUygulama\obj\Debug\VotingUygulama.Form1.resources
+C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\VotingUygulama\obj\Debug\VotingUygulama.Properties.Resources.resources
+C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\VotingUygulama\obj\Debug\VotingUygulama.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\VotingUygulama\obj\Debug\VotingUygulama.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\VotingUygulama\obj\Debug\VotingUygulama.exe
+C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\VotingUygulama\obj\Debug\VotingUygulama.pdb
