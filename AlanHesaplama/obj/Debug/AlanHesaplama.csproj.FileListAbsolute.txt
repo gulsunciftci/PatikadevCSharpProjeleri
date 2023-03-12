@@ -6,3 +6,6 @@ C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\AlanHesaplama\obj\Debug\AlanHe
 C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\AlanHesaplama\obj\Debug\AlanHesaplama.csproj.CoreCompileInputs.cache
 C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\AlanHesaplama\obj\Debug\AlanHesaplama.exe
 C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\AlanHesaplama\obj\Debug\AlanHesaplama.pdb
+C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\AlanHesaplama\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\AlanHesaplama\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\AlanHesaplama\obj\Debug\AlanHesaplama.csproj.CopyComplete

@@ -6,3 +6,6 @@ C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\Algoritma\obj\Debug\Algoritma.
 C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\Algoritma\obj\Debug\Algoritma.csproj.CoreCompileInputs.cache
 C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\Algoritma\obj\Debug\Algoritma.exe
 C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\Algoritma\obj\Debug\Algoritma.pdb
+C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\Algoritma\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\Algoritma\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\Algoritma\obj\Debug\Algoritma.csproj.CopyComplete

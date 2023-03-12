@@ -6,3 +6,6 @@ C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\FibonacciTriangleandAvarage\bi
 C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\FibonacciTriangleandAvarage\bin\Debug\FibonacciTriangleandAvarage.pdb
 C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\FibonacciTriangleandAvarage\obj\Debug\FibonacciTriangleandAvarage.exe
 C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\FibonacciTriangleandAvarage\obj\Debug\FibonacciTriangleandAvarage.pdb
+C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\FibonacciTriangleandAvarage\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\FibonacciTriangleandAvarage\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\FibonacciTriangleandAvarage\obj\Debug\FibonacciTriangleandAvarage.csproj.CopyComplete

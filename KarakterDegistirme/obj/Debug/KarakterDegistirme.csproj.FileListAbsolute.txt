@@ -6,3 +6,6 @@ C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\KarakterDegistirme\obj\Debug\K
 C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\KarakterDegistirme\obj\Debug\KarakterDegistirme.csproj.CoreCompileInputs.cache
 C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\KarakterDegistirme\obj\Debug\KarakterDegistirme.exe
 C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\KarakterDegistirme\obj\Debug\KarakterDegistirme.pdb
+C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\KarakterDegistirme\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\KarakterDegistirme\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\KarakterDegistirme\obj\Debug\KarakterDegistirme.csproj.CopyComplete

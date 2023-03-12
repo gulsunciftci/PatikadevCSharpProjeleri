@@ -6,3 +6,6 @@ C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\SessizHarf\obj\Debug\SessizHar
 C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\SessizHarf\obj\Debug\SessizHarf.csproj.CoreCompileInputs.cache
 C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\SessizHarf\obj\Debug\SessizHarf.exe
 C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\SessizHarf\obj\Debug\SessizHarf.pdb
+C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\SessizHarf\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\SessizHarf\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\SessizHarf\obj\Debug\SessizHarf.csproj.CopyComplete

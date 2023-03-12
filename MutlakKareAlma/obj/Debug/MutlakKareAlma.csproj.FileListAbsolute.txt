@@ -6,3 +6,6 @@ C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\MutlakKareAlma\bin\Debug\Mutla
 C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\MutlakKareAlma\bin\Debug\MutlakKareAlma.pdb
 C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\MutlakKareAlma\obj\Debug\MutlakKareAlma.exe
 C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\MutlakKareAlma\obj\Debug\MutlakKareAlma.pdb
+C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\MutlakKareAlma\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\MutlakKareAlma\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\MutlakKareAlma\obj\Debug\MutlakKareAlma.csproj.CopyComplete

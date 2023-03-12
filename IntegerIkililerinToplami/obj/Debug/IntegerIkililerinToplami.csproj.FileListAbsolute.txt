@@ -6,3 +6,6 @@ C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\IntegerIkililerinToplami\obj\D
 C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\IntegerIkililerinToplami\obj\Debug\IntegerIkililerinToplami.csproj.CoreCompileInputs.cache
 C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\IntegerIkililerinToplami\obj\Debug\IntegerIkililerinToplami.exe
 C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\IntegerIkililerinToplami\obj\Debug\IntegerIkililerinToplami.pdb
+C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\IntegerIkililerinToplami\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\IntegerIkililerinToplami\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\IntegerIkililerinToplami\obj\Debug\IntegerIkililerinToplami.csproj.CopyComplete

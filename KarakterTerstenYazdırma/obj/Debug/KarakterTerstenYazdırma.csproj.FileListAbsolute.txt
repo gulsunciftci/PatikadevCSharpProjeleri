@@ -6,3 +6,6 @@ C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\KarakterTerstenYazdırma\obj\D
 C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\KarakterTerstenYazdırma\obj\Debug\KarakterTerstenYazdırma.csproj.CoreCompileInputs.cache
 C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\KarakterTerstenYazdırma\obj\Debug\KarakterTerstenYazdırma.exe
 C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\KarakterTerstenYazdırma\obj\Debug\KarakterTerstenYazdırma.pdb
+C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\KarakterTerstenYazdırma\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\KarakterTerstenYazdırma\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\KarakterTerstenYazdırma\obj\Debug\KarakterTerstenYazdırma.csproj.CopyComplete

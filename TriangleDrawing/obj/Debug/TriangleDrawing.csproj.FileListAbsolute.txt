@@ -6,3 +6,6 @@ C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\TriangleDrawing\obj\Debug\Tria
 C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\TriangleDrawing\obj\Debug\TriangleDrawing.csproj.CoreCompileInputs.cache
 C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\TriangleDrawing\obj\Debug\TriangleDrawing.exe
 C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\TriangleDrawing\obj\Debug\TriangleDrawing.pdb
+C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\TriangleDrawing\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\TriangleDrawing\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Hp\source\repos\PatikadevCSharpProjeleri\TriangleDrawing\obj\Debug\TriangleDrawing.csproj.CopyComplete
