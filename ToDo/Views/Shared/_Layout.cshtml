@@ -1,0 +1,60 @@
+﻿<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta name="description" content="To Do List Admin Paneli" />
+    <meta name="author" content="To Do List" />
+    <title> To Do List App </title>
+    <link href="~/assets/plugins/simplebar/css/simplebar.css" rel="stylesheet" />
+    <link href="~/assets/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/assets/plugins/bootstrap-datatable/css/dataTables.bootstrap4.min.css" rel="stylesheet" type="text/css">
+    <link href="~/assets/plugins/bootstrap-datatable/css/buttons.bootstrap4.min.css" rel="stylesheet" type="text/css">
+    <link href="~/assets/css/animate.css" rel="stylesheet" type="text/css" />
+    <link href="~/assets/css/icons.css" rel="stylesheet" type="text/css" />
+    <link href="~/assets/css/sidebar-menu.css" rel="stylesheet" />
+    <link href="~/assets/css/app-style.css" rel="stylesheet" />
+</head>
+
+<body class="bg-theme bg-theme1">
+    <div id="pageloader-overlay" class="visible incoming"><div class="loader-wrapper-outer"><div class="loader-wrapper-inner"><div class="loader"></div></div></div></div>
+    <div id="wrapper">
+
+        <div class="clearfix"></div>
+        <div class="content-wrapper">
+            <div class="container-fluid">
+
+                @RenderBody()
+
+                <div class="overlay toggle-menu"></div>
+            </div>
+        </div><!--End content-wrapper-->
+        <a href="javaScript:void();" class="back-to-top"><i class="fa fa-angle-double-up"></i> </a>
+        <footer class="footer">
+            <div class="container">
+                <div class="text-center">
+                    @DateTime.Now.Year
+                </div>
+            </div>
+        </footer>
+    </div><!--End wrapper-->
+    <script src="~/assets/js/jquery.min.js"></script>
+    <script src="~/assets/js/popper.min.js"></script>
+    <script src="~/assets/js/bootstrap.min.js"></script>
+    <script src="~/assets/plugins/simplebar/js/simplebar.js"></script>
+    <script src="~/assets/js/sidebar-menu.js"></script>
+    <script src="~/assets/js/app-script.js"></script>
+    <script src="~/assets/plugins/bootstrap-datatable/js/jquery.dataTables.min.js"></script>
+    <script src="~/assets/plugins/bootstrap-datatable/js/dataTables.bootstrap4.min.js"></script>
+    <script src="~/assets/plugins/bootstrap-datatable/js/dataTables.buttons.min.js"></script>
+    <script src="~/assets/plugins/bootstrap-datatable/js/buttons.bootstrap4.min.js"></script>
+    <script src="~/assets/plugins/bootstrap-datatable/js/jszip.min.js"></script>
+    <script src="~/assets/plugins/bootstrap-datatable/js/pdfmake.min.js"></script>
+    <script src="~/assets/plugins/bootstrap-datatable/js/vfs_fonts.js"></script>
+    <script src="~/assets/plugins/bootstrap-datatable/js/buttons.html5.min.js"></script>
+    <script src="~/assets/plugins/bootstrap-datatable/js/buttons.print.min.js"></script>
+    <script src="~/assets/plugins/bootstrap-datatable/js/buttons.colVis.min.js"></script>
+
+</body>
+</html>
